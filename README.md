@@ -1,3 +1,4 @@
+# Let's Find a Place to Eat!
 # Inspiration
 After playing hours of basketball with friends, we were all left starving. The problem? After spending 30 minutes trying to figure out where to eat, it was impossible to come up with a decision that everyone agreed upon. Why not create a web app that would solve this issue? After all, I'm sure there are other friend groups out there that may have similar situations occur regularly. 
 # What the web app does and how it helps.
