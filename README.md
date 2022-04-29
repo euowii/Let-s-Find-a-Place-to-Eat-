@@ -4,7 +4,7 @@ After playing hours of basketball with friends, we were all left starving. The p
 # What the web app does and how it helps.
 The web app will utilize Geolocation API to gather information that will be used by the Places API in order to generate a place for you and your friends to eat. It takes away the human decision making process. With no single individual suggesting a place to eat and leaving the decision making in the hands of a web app, everyone in the group is more likely to be content with the final decision. 
 
-https://user-images.githubusercontent.com/92958732/165871694-1e3a6c1a-8f65-4fe4-a87a-e47fb6ea7904.mov
+https://user-images.githubusercontent.com/92958732/165871933-51e0d323-92d8-48f9-916f-96a11a27d4cf.mov
 
 # How I built it?
 Geolocation API, Places API, HTML, CSS, Bootstrap, JavaScript, Node.js, EJS, and Express
