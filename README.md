@@ -17,3 +17,4 @@ One of the features I plan on adding in the future is the ability to "re-roll". 
 Here's a link to the web app. I hosted it on Heroku. Feel free to give it a spin!
 https://glacial-fortress-04947.herokuapp.com/
 
+Alternatively, if you want to clone the repository, you're going to also have to run: npm install body-parser, ejs, express, request. These required dependencies that are needed are found in the package.json
