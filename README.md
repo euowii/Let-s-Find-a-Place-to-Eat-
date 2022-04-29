@@ -3,6 +3,9 @@
 After playing hours of basketball with friends, we were all left starving. The problem? After spending 30 minutes trying to figure out where to eat, it was impossible to come up with a decision that everyone agreed upon. Why not create a web app that would solve this issue? After all, I'm sure there are other friend groups out there that may have similar situations occur regularly. 
 # What the web app does and how it helps.
 The web app will utilize Geolocation API to gather information that will be used by the Places API in order to generate a place for you and your friends to eat. It takes away the human decision making process. With no single individual suggesting a place to eat and leaving the decision making in the hands of a web app, everyone in the group is more likely to be content with the final decision. 
+
+https://user-images.githubusercontent.com/92958732/165871694-1e3a6c1a-8f65-4fe4-a87a-e47fb6ea7904.mov
+
 # How I built it?
 Geolocation API, Places API, HTML, CSS, Bootstrap, JavaScript, Node.js, EJS, and Express
 # Challenges I ran into 
